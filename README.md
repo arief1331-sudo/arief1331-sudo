@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arief Bagus Nugraha</h1>
-<h3 align="center">Results-driven professional transitioning to Data Engineering with a background in full-stack development and data protection. Equipped with recent training in database management and ETL pipelines, I specialize in building secure, scalable data infrastructures that balance privacy compliance with business value.</h3>
+<h3 align="center">I'm a tech professional making an exciting transition into Data Engineering, combining my past experience in full-stack development and data privacy. I recently completed an intensive bootcamp to dive deep into database management, ETL pipelines, and data architecture. I really enjoy building secure and scalable data systems—making sure that strict privacy compliance goes hand-in-hand with keeping data accessible and valuable for the business.</h3>
 
 - 🌱 I’m currently learning **Apache Kafka, GCG, and many more about data**
 
